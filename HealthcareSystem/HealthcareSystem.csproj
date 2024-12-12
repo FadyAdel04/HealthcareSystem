@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\about-img.jpg" />
+    <None Include="wwwroot\img\author1.jpg" />
+    <None Include="wwwroot\img\author2.jpg" />
+    <None Include="wwwroot\img\author3.jpg" />
+    <None Include="wwwroot\img\blockqoute-bg.jpg" />
+    <None Include="wwwroot\img\blog-sidebar1.jpg" />
+    <None Include="wwwroot\img\blog-sidebar2.jpg" />
+    <None Include="wwwroot\img\blog-sidebar3.jpg" />
+    <None Include="wwwroot\img\blog1.jpg" />
+    <None Include="wwwroot\img\blog2.jpg" />
+    <None Include="wwwroot\img\blog3.jpg" />
+    <None Include="wwwroot\img\bread-bg.jpg" />
+    <None Include="wwwroot\img\call-bg.jpg" />
+    <None Include="wwwroot\img\client-bg.jpg" />
+    <None Include="wwwroot\img\client1.png" />
+    <None Include="wwwroot\img\client2.png" />
+    <None Include="wwwroot\img\client3.png" />
+    <None Include="wwwroot\img\client4.png" />
+    <None Include="wwwroot\img\client5.png" />
+    <None Include="wwwroot\img\contact-img.png" />
+    <None Include="wwwroot\img\favicon.png" />
+    <None Include="wwwroot\img\fun-bg.jpg" />
+    <None Include="wwwroot\img\logo.png" />
+    <None Include="wwwroot\img\map-marker.png" />
+    <None Include="wwwroot\img\mission-img.jpg" />
+    <None Include="wwwroot\img\pf1.jpg" />
+    <None Include="wwwroot\img\pf2.jpg" />
+    <None Include="wwwroot\img\pf3.jpg" />
+    <None Include="wwwroot\img\pf4.jpg" />
+    <None Include="wwwroot\img\section-img.png" />
+    <None Include="wwwroot\img\signup-bg.jpg" />
+    <None Include="wwwroot\img\slider.jpg" />
+    <None Include="wwwroot\img\slider2.jpg" />
+    <None Include="wwwroot\img\slider3.jpg" />
+    <None Include="wwwroot\img\testi-bg.jpg" />
+    <None Include="wwwroot\img\video-bg.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+</Project>

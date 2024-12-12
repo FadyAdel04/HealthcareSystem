@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HealthcareSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HealthcareSystem.9x1t028sgz.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\img\\author1.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\img\\author2.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\img\\author3.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blockqoute-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\blockqoute-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blog-sidebar1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-sidebar1.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blog-sidebar2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-sidebar2.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blog-sidebar3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-sidebar3.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog1.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog2.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog3.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bread-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\call-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\client-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\client1.png",
+      "PackagePath": "staticwebassets\\img\\client1.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\client2.png",
+      "PackagePath": "staticwebassets\\img\\client2.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\client3.png",
+      "PackagePath": "staticwebassets\\img\\client3.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\client4.png",
+      "PackagePath": "staticwebassets\\img\\client4.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\client5.png",
+      "PackagePath": "staticwebassets\\img\\client5.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\img\\contact-img.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\fun-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\fun-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\img\\map-marker.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\img\\mission-img.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\pf1.jpg",
+      "PackagePath": "staticwebassets\\img\\pf1.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\pf2.jpg",
+      "PackagePath": "staticwebassets\\img\\pf2.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\pf3.jpg",
+      "PackagePath": "staticwebassets\\img\\pf3.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\pf4.jpg",
+      "PackagePath": "staticwebassets\\img\\pf4.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\pf5.jpg",
+      "PackagePath": "staticwebassets\\img\\pf5.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\pf6.jpg",
+      "PackagePath": "staticwebassets\\img\\pf6.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\section-img.png",
+      "PackagePath": "staticwebassets\\img\\section-img.png"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\signup-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\img\\slider.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider2.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider3.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testi-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HealthcareSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HealthcareSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HealthcareSystem.props",
+      "PackagePath": "build\\HealthcareSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HealthcareSystem.props",
+      "PackagePath": "buildMultiTargeting\\HealthcareSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HealthcareSystem.props",
+      "PackagePath": "buildTransitive\\HealthcareSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

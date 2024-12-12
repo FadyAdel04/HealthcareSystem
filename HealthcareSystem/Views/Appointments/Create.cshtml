@@ -1,0 +1,136 @@
+﻿@model HealthcareSystem.Models.Appointment
+
+@{
+    ViewData["Title"] = "Create Appointment";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Font Awesome -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h3, h4 {
+            text-align: center;
+            color: #4CAF50;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        .form-container {
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+            .form-group label {
+                font-weight: bold;
+                color: #333;
+            }
+
+        .form-control {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+            .form-control:focus {
+                border-color: #4CAF50;
+                outline: none;
+            }
+
+        .btn-primary {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+
+            .btn-primary:hover {
+                background-color: #45a049;
+            }
+
+        .action-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .btn-back {
+            text-decoration: none;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+
+            .btn-back:hover {
+                color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Create Appointment</h1>
+        <h4>Enter the appointment details below</h4>
+        <hr />
+
+        <div class="form-container">
+            <form asp-action="Create" method="post">
+                <div class="form-group">
+                    <label asp-for="PatientId" class="control-label">Patient</label>
+                    <input asp-for="PatientId" class="form-control" />
+                    <span asp-validation-for="PatientId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="AppointmentDate" class="control-label">Appointment Date</label>
+                    <input asp-for="AppointmentDate" type="datetime-local" class="form-control" />
+                    <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DoctorName" class="control-label">Doctor's Name</label>
+                    <input asp-for="DoctorName" class="form-control" />
+                    <span asp-validation-for="DoctorName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Reason" class="control-label">Reason for Visit</label>
+                    <textarea asp-for="Reason" class="form-control"></textarea>
+                    <span asp-validation-for="Reason" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save Appointment</button>
+            </form>
+        </div>
+
+        <div class="action-links">
+            <a asp-action="Index" class="btn-back">
+                <i class="fas fa-arrow-left"></i> Back to List
+            </a>
+        </div>
+    </div>
+</body>
+</html>

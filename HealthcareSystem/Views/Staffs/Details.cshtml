@@ -1,0 +1,102 @@
+﻿@model HealthcareSystem.Models.Staff
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Optional for icons -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h4 {
+            text-align: center;
+            color: #4CAF50;
+        }
+
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .details-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        dl {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0;
+            padding: 0;
+        }
+
+        dt {
+            font-weight: bold;
+            width: 30%;
+            margin-bottom: 10px;
+        }
+
+        dd {
+            width: 60%;
+            margin-bottom: 10px;
+            padding-left: 20px;
+        }
+
+        .btn-link {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+
+            .btn-link:hover {
+                color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Staff Details</h1>
+
+        <div class="details-section">
+            <h4>Staff Information</h4>
+            <hr />
+            <dl>
+                <dt>@Html.DisplayNameFor(model => model.FirstName)</dt>
+                <dd>@Html.DisplayFor(model => model.FirstName)</dd>
+
+                <dt>@Html.DisplayNameFor(model => model.LastName)</dt>
+                <dd>@Html.DisplayFor(model => model.LastName)</dd>
+
+                <dt>@Html.DisplayNameFor(model => model.Role)</dt>
+                <dd>@Html.DisplayFor(model => model.Role)</dd>
+
+                <dt>@Html.DisplayNameFor(model => model.Phone)</dt>
+                <dd>@Html.DisplayFor(model => model.Phone)</dd>
+
+                <dt>@Html.DisplayNameFor(model => model.Email)</dt>
+                <dd>@Html.DisplayFor(model => model.Email)</dd>
+            </dl>
+        </div>
+
+        <div class="text-center">
+            <a asp-action="Edit" asp-route-id="@Model?.StaffId" class="btn-link">Edit</a> |
+            <a asp-action="Index" class="btn-link">Back to List</a>
+        </div>
+    </div>
+</body>
+</html>

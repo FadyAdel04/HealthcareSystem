@@ -1,0 +1,136 @@
+﻿@model IEnumerable<HealthcareSystem.Models.Staff>
+
+@{
+    ViewData["Title"] = "Staff Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Optional for icons -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+            color: #4CAF50;
+        }
+
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+            table th, table td {
+                padding: 12px;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            table th {
+                background-color: #f2f2f2;
+                color: #4CAF50;
+            }
+
+            table tbody tr:hover {
+                background-color: #f1f1f1;
+            }
+
+        a {
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Action links styles */
+        .edit-link {
+            color: #28a745; /* Green for Edit */
+        }
+
+        .details-link {
+            color: #6c757d; /* Gray for Details */
+        }
+
+        .delete-link {
+            color: #dc3545; /* Red for Delete */
+        }
+
+        .action-links a {
+            margin-right: 10px;
+        }
+
+        /* Button style */
+        .create-btn {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+            .create-btn:hover {
+                background-color: #45a049;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Staff Management</h1>
+
+        <p>
+            <a href="@Url.Action("Create", "Staffs")" class="create-btn">Create New Staff</a>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+                    <th>@Html.DisplayNameFor(model => model.LastName)</th>
+                    <th>@Html.DisplayNameFor(model => model.Role)</th>
+                    <th>@Html.DisplayNameFor(model => model.Phone)</th>
+                    <th>@Html.DisplayNameFor(model => model.Email)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Role)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td class="action-links">
+                            <a class="edit-link" asp-action="Edit" asp-route-id="@item.StaffId"><i class="fas fa-edit"></i> Edit</a> |
+                            <a class="details-link" asp-action="Details" asp-route-id="@item.StaffId"><i class="fas fa-info-circle"></i> Details</a> |
+                            <a class="delete-link" asp-action="Delete" asp-route-id="@item.StaffId"><i class="fas fa-trash-alt"></i> Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
