@@ -14,7 +14,6 @@ public class HealthcareContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        // Explicit configurations if necessary
         modelBuilder.Entity<Billing>().HasKey(b => b.BillId);
         modelBuilder.Entity<Patient>().HasKey(p => p.PatientId);
         modelBuilder.Entity<Appointment>().HasKey(a => a.AppointmentId);

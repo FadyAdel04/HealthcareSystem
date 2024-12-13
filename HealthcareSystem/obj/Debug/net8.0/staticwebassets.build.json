@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "63EOMC6RfL5l/o6PhuMFHz6OBlZXfRSb/NMZA7ug/+g=",
+  "Hash": "LtgXpMLSw65qRuAsBFCn/RY3OdKpkxvHYifjFCsmBbk=",
   "Source": "HealthcareSystem",
   "BasePath": "_content/HealthcareSystem",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "p422yg2ztt",
+      "Integrity": "twY72V2uo1T7tqdHdWUtX+UuTIxHZFrk3OKm90h8qTY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -2201,51 +2201,6 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 16:53:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
       "Route": "favicon.ico",
       "AssetFile": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -2256,7 +2211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "14676"
         },
         {
           "Name": "Content-Type",
@@ -2264,11 +2219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"twY72V2uo1T7tqdHdWUtX+UuTIxHZFrk3OKm90h8qTY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 16:53:18 GMT"
+          "Value": "Fri, 01 May 2020 08:59:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2278,7 +2233,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-twY72V2uo1T7tqdHdWUtX+UuTIxHZFrk3OKm90h8qTY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.p422yg2ztt.ico",
+      "AssetFile": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twY72V2uo1T7tqdHdWUtX+UuTIxHZFrk3OKm90h8qTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 01 May 2020 08:59:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p422yg2ztt"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-twY72V2uo1T7tqdHdWUtX+UuTIxHZFrk3OKm90h8qTY="
         }
       ]
     },

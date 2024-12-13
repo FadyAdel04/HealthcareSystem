@@ -286,3 +286,4 @@ F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\Healt
 F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.sourcelink.json

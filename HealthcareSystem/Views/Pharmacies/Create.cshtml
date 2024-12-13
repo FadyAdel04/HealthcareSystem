@@ -4,44 +4,53 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1 class="text-center text-success">Create</h1>
 
-<h4>Pharmacy</h4>
+<h4 class="text-center text-muted">Patient Information</h4>
 <hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="PatientId" class="control-label"></label>
-                <select asp-for="PatientId" class ="form-control" asp-items="ViewBag.PatientId"></select>
-            </div>
-            <div class="form-group">
-                <label asp-for="Medicine" class="control-label"></label>
-                <input asp-for="Medicine" class="form-control" />
-                <span asp-validation-for="Medicine" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Dosage" class="control-label"></label>
-                <input asp-for="Dosage" class="form-control" />
-                <span asp-validation-for="Dosage" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IssuedDate" class="control-label"></label>
-                <input asp-for="IssuedDate" class="form-control" />
-                <span asp-validation-for="IssuedDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+<div class="d-flex justify-content-center">
+    <div class="card shadow-lg p-4" style="width: 40rem; background-color: #f4f4f4;">
+        <div class="card-body">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="PatientId" class="form-label"></label>
+                    <select asp-for="PatientId" class="form-control" asp-items="ViewBag.PatientId"></select>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Medicine" class="form-label"></label>
+                    <input asp-for="Medicine" class="form-control" placeholder="Enter Medicine Name" />
+                    <span asp-validation-for="Medicine" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Dosage" class="form-label"></label>
+                    <input asp-for="Dosage" class="form-control" placeholder="Enter Dosage" />
+                    <span asp-validation-for="Dosage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="IssuedDate" class="form-label"></label>
+                    <input asp-for="IssuedDate" type="date" class="form-control" />
+                    <span asp-validation-for="IssuedDate" class="text-danger"></span>
+                </div>
+
+                <div class="text-center">
+                    <input type="submit" value="Create" class="btn btn-success px-5" />
+                </div>
+            </form>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div class="text-center mt-3">
+    <a asp-action="Index" class="text-decoration-none text-success">Back to List</a>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

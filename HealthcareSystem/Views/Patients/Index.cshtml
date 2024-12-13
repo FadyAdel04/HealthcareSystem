@@ -31,6 +31,11 @@
             margin: 0 auto;
         }
 
+        .table-wrapper {
+            overflow-x: auto; /* Enable horizontal scrolling */
+            display: block; /* Ensure the table doesn't shrink on smaller screens */
+        }
+
         table {
             width: 100%;
             margin-top: 20px;
@@ -43,6 +48,7 @@
                 padding: 12px;
                 text-align: left;
                 border-bottom: 1px solid #ddd;
+                white-space: nowrap; /* Prevent content from wrapping */
             }
 
             table th {
@@ -91,7 +97,6 @@
             .create-btn:hover {
                 background-color: #45a049;
             }
-
     </style>
 </head>
 <body>
@@ -102,39 +107,41 @@
             <a href="@Url.Action("Create", "Patients")" class="create-btn">Create New Patient</a>
         </p>
 
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>Patient ID</th>
-                    <th>@Html.DisplayNameFor(model => model.FirstName)</th>
-                    <th>@Html.DisplayNameFor(model => model.LastName)</th>
-                    <th>@Html.DisplayNameFor(model => model.DateOfBirth)</th>
-                    <th>@Html.DisplayNameFor(model => model.Gender)</th>
-                    <th>@Html.DisplayNameFor(model => model.Phone)</th>
-                    <th>@Html.DisplayNameFor(model => model.Email)</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model)
-                {
+        <div class="table-wrapper">
+            <table class="table">
+                <thead>
                     <tr>
-                        <td>@item.PatientId</td> <!-- Displaying the Patient ID -->
-                        <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
-                        <td>@Html.DisplayFor(modelItem => item.LastName)</td>
-                        <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
-                        <td>@Html.DisplayFor(modelItem => item.Gender)</td>
-                        <td>@Html.DisplayFor(modelItem => item.Phone)</td>
-                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
-                        <td class="action-links">
-                            <a class="edit-link" asp-action="Edit" asp-route-id="@item.PatientId"><i class="fas fa-edit"></i> Edit</a> |
-                            <a class="details-link" asp-action="Details" asp-route-id="@item.PatientId"><i class="fas fa-info-circle"></i> Details</a> |
-                            <a class="delete-link" asp-action="Delete" asp-route-id="@item.PatientId"><i class="fas fa-trash-alt"></i> Delete</a>
-                        </td>
+                        <th>Patient ID</th>
+                        <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+                        <th>@Html.DisplayNameFor(model => model.LastName)</th>
+                        <th>@Html.DisplayNameFor(model => model.DateOfBirth)</th>
+                        <th>@Html.DisplayNameFor(model => model.Gender)</th>
+                        <th>@Html.DisplayNameFor(model => model.Phone)</th>
+                        <th>@Html.DisplayNameFor(model => model.Email)</th>
+                        <th>Actions</th>
                     </tr>
-                }
-            </tbody>
-        </table>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.PatientId</td>
+                            <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Gender)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                            <td class="action-links">
+                                <a class="edit-link" asp-action="Edit" asp-route-id="@item.PatientId"><i class="fas fa-edit"></i> Edit</a> |
+                                <a class="details-link" asp-action="Details" asp-route-id="@item.PatientId"><i class="fas fa-info-circle"></i> Details</a> |
+                                <a class="delete-link" asp-action="Delete" asp-route-id="@item.PatientId"><i class="fas fa-trash-alt"></i> Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
     </div>
 </body>
 </html>

@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\NewFolder\**" />
+    <Compile Remove="NewFolder1\**" />
+    <Content Remove="Data\NewFolder\**" />
+    <Content Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="Data\NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+    <None Remove="Data\NewFolder\**" />
+    <None Remove="NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\img\about-img.jpg" />
     <None Include="wwwroot\img\author1.jpg" />
     <None Include="wwwroot\img\author2.jpg" />
