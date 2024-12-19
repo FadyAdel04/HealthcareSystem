@@ -7763,31 +7763,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\golden tech\\.nuget\\packages\\": {},
-    "F:\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Lenovo ThinkBook 14\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\HealthcareSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo ThinkBook 14\\OneDrive\\Documents\\GitHub\\HealthcareSystem\\HealthcareSystem\\HealthcareSystem.csproj",
       "projectName": "HealthcareSystem",
-      "projectPath": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\HealthcareSystem.csproj",
-      "packagesPath": "C:\\Users\\golden tech\\.nuget\\packages\\",
-      "outputPath": "F:\\computer and artificial intilgance\\c# asp.net projects\\HealthcareSystem\\HealthcareSystem\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo ThinkBook 14\\OneDrive\\Documents\\GitHub\\HealthcareSystem\\HealthcareSystem\\HealthcareSystem.csproj",
+      "packagesPath": "C:\\Users\\Lenovo ThinkBook 14\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo ThinkBook 14\\OneDrive\\Documents\\GitHub\\HealthcareSystem\\HealthcareSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "F:\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\golden tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Lenovo ThinkBook 14\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
