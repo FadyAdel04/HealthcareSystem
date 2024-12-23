@@ -17,161 +17,161 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HealthcareSystem
 build_property.RootNamespace = HealthcareSystem
-build_property.ProjectDir = F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\HealthcareSystem\
+build_property.ProjectDir = C:\Users\Lenovo ThinkBook 14\OneDrive\Documents\GitHub\HealthcareSystem\HealthcareSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\computer and artificial intilgance\c# asp.net projects\HealthcareSystem\HealthcareSystem
+build_property.MSBuildProjectDirectory = C:\Users\Lenovo ThinkBook 14\OneDrive\Documents\GitHub\HealthcareSystem\HealthcareSystem
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Appointments/Create.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Appointments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Appointments/Delete.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Appointments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Appointments/Details.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Appointments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Appointments/Edit.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Appointments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Appointments/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Appointments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Billings/Create.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Billings/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Billings/Delete.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Billings/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Billings/Details.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Billings/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Billings/Edit.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Billings/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Billings/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Billings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Home/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Home/Privacy.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Create.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Delete.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Details.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Edit.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/MedicalRecords/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Patients/Create.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Patients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Patients/Delete.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Patients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Patients/Details.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Patients/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Patients/Edit.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Patients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Patients/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Patients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Create.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Delete.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Details.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Edit.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Pharmacies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Shared/Error.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Staffs/Create.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Staffs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Staffs/Delete.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Staffs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Staffs/Details.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Staffs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Staffs/Edit.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Staffs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Staffs/Index.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Staffs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/_ViewImports.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/_ViewStart.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/computer and artificial intilgance/c\# asp.net projects/HealthcareSystem/HealthcareSystem/Views/Shared/_Layout.cshtml]
+[c:/Users/Lenovo ThinkBook 14/OneDrive/Documents/GitHub/HealthcareSystem/HealthcareSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8124k37qek

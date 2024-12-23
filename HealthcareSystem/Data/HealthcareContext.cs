@@ -1,7 +1,7 @@
 ﻿using HealthcareSystem.Models;
 using Microsoft.EntityFrameworkCore;
 
-public class HealthcareContext : DbContext
+public class HealthcareContext : DbContext, IHealthcareContext
 {
     public HealthcareContext(DbContextOptions<HealthcareContext> options) : base(options) { }
 
