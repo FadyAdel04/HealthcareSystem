@@ -12,10 +12,14 @@ namespace HealthcareSystem.Controllers
     public class AppointmentsController : Controller
     {
         private readonly HealthcareContext _context;
+        private readonly ILoggingService _logger;
 
-        public AppointmentsController(HealthcareContext context)
+
+        public AppointmentsController(HealthcareContext context, ILoggingService logger)
         {
             _context = context;
+                _logger = logger;
+
         }
 
         // GET: Appointments
@@ -72,6 +76,8 @@ namespace HealthcareSystem.Controllers
         // GET: Appointments/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
+                _logger.Log("Task Result Edit");
+
             if (id == null)
             {
                 return NotFound();

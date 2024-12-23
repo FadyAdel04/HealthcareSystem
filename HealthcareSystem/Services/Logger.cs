@@ -1,6 +1,12 @@
-﻿namespace HealthcareSystem.Services
+﻿public interface ILoggingService
 {
-    public class Logger
+    void Log(string message);
+}
+
+public class LoggingService : ILoggingService
+{
+    public void Log(string message)
     {
+        Console.WriteLine($"Log: {message}");
     }
 }

@@ -6,9 +6,9 @@ namespace HealthcareSystem.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILoggingService _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILoggingService logger)
         {
             _logger = logger;
         }
